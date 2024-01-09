@@ -1,0 +1,6 @@
+Nem igazán haladtam előre. Az biztos, hogy nem lehet 26501365 lépést lefuttatni.
+A tábla hossza határozza meg milyen sűrűn kapunk új táblát. A test1-nél ez minden 
+11. körben megtörténik.
+ha nem volna akadály akkor a megoldás a forduló*forduló volna. Viszont nem mindegy hány akadály volna
+és az sem mindegy a S mellett van-e van a szélén. Vagy egymás mellett 2 akadály
+nem ugyanaz mint külön.
